@@ -51,7 +51,7 @@ contract Assessment {
     }
 
     // Function for a user to transact
-    function vote(uint256 _transactionId) public {
+    function transact(uint256 _transactionId) public {
         // Ensure the transact ID is valid
         require(_transactionId > 0 && _transactionId <= candidatesCount, "Invalid transaction ID.");
         
