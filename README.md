@@ -10,11 +10,10 @@ You can run the code locally, or you can use GitPod here:
 Upload your solution to GitHub and share the link with us along with a quick code walk-through as explained below.
 
 ### Functions
-**getTransaction**: how many transaction in a specific process
-**getTotalTransaction**: total transaction of both process
+-**getTransaction**: how many transaction in a specific process
+-**getTotalTransaction**: total transaction of both process
 - **registerTransaction**
 - **transact**
-- 
 
 #### Getting Started
 1. To execute this you will need to install VS code or Gitpod to run this.
